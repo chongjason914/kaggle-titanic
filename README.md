@@ -1,9 +1,7 @@
 # Titanic: Machine Learning from Disaster 
 
 ## Introduction
-This repo contains an end-to-end analysis and solution to the [Kaggle Titanic prediction competition](https://www.kaggle.com/c/titanic/overview). I have structured this notebook
-in such a way that it is beginner-friendly by avoiding excessive technical jargon as well as explaining in detail each step of my analysis. This notebook also includes brief 
-explanations of some basic data science concepts and terminology to help anyone who is new get started.
+This repo contains an end-to-end analysis and solution to the [Kaggle Titanic survival prediction competition](https://www.kaggle.com/c/titanic/overview). I have structured this notebook in such a way that it is beginner-friendly by avoiding excessive technical jargon as well as explaining in detail each step of my analysis. This notebook also includes brief explanations of some basic data science concepts and terminology to help anyone who is new get started.
 
 ## Project details
 The competition involves analysing features of passengers aboard the Titanic and predicting whether or not they survive the tragic shipwreck in the early 20th century. This is 
@@ -72,7 +70,7 @@ a binary classfication problem as we are classifying the outcomes of those passe
     - 6.2.7 Stochastic gradient descent
     - 6.2.8 Decision tree
     - 6.2.9 Random forest
-    - 6.1.10 CatBoost
+    - 6.2.10 CatBoost
 - 6.3 Model evaluation and hyperparameter tuning
     - 6.3.1 Training accuracy
     - 6.3.2 K-fold cross validation
