@@ -8,8 +8,9 @@ Given what we know about a passenger aboard the Titanic, can we predict whether 
 
 This is a binary classfication problem in machine learning as we are classifying the outcomes of passengers as either survived or did not survive the Titanic.
 
+## Evaluation metric
 The evaluation metric of this competition is the percentage of passenger data in the test set that are correctly predicted by our
-model.
+model. This is known as accuracy.
 
 ## Data description
 
