@@ -64,7 +64,10 @@ Below are the description of the features in the data:
 **5. Data Preprocessing**
 - 5.1 Drop and fill missing values
 - 5.2 Data transformation (log transformation)
-- 5.3 Feature engineering 
+- 5.3 Feature engineering
+    - Title
+    - IsAlone
+    - Age*Class
 - 5.4 Feature encoding
 
 **6. Modelling**
