@@ -94,16 +94,21 @@ Below are the description of the features in the data:
 
 **9. Conclusion**
 
+## Medium article 
+Link to full project write-up on Towards Data Science [here](https://towardsdatascience.com/comprehensive-beginners-guide-to-kaggle-titanic-survival-prediction-competition-solution-21c5be2cec2c). 
+
+## YouTube
+- [Part 1: Exploratory Data Analysis](https://www.youtube.com/watch?v=GSk-EEu1zkA&t=4s)
+- [Part 2: Preprocessing & Modelling](https://www.youtube.com/watch?v=i5E2hruuLaQ)
+
 ## References
-I have made references to the following notebooks in the making of this notebook:
 - [Titanic Data Science Solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions) by [Manav Sehgal](https://www.kaggle.com/startupsci)
 - [Titanic Top 4% With Emsemble Modelling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling) by [Yassin Ghouzam](https://www.kaggle.com/yassineghouzam)
 
-## My platforms
-Reach out to me if you have any questions! 
+## Follow me 
 - [Facebook](https://www.facebook.com/chongjason914)
 - [Instagram](https://www.instagram.com/chongjason914)
 - [Twitter](https://www.twitter.com/chongjason914)
 - [LinkedIn](https://www.linkedin.com/in/chongjason914)
-- [YouTube](https://www.youtube.com/channel/UCQXiCnjatxiAKgWjoUlM-Xg?view_as=subscriber)
+- [YouTube](https://www.youtube.com/jasonchong914)
 - [Medium](https://www.medium.com/@chongjason)
